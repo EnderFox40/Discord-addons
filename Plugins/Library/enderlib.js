@@ -1,9 +1,9 @@
 /**
- * @name ServerCounter
+ * @name EnderLib
  * @author EnderFoxBG
  * @authorId 970380468090437672
  * @version 1.0
- * @description This plugin adds server counter to the server list.
+ * @description Library that's needed for My plugins.
  * @patreon https://www.patreon.com/EnderFoxBG
  * @website https://enderfoxbg.weebly.com
  */

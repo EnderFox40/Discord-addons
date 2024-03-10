@@ -8,7 +8,7 @@ Download coming soon.
 
 #### Vencord
 ```bash
-https://raw.githubusercontent.com/EnderFox40/Discord-addons/main/Themes/Nicedark/nicedark.theme.css
+https://raw.githubusercontent.com/enderfoxbg/Discord-Themes/main/Themes/Nicedark/nicedark.theme.css
 ```
 ## CREDITS
 

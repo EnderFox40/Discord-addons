@@ -1,6 +1,6 @@
 # Nicedark - Make the Dark mode even Better!
 
-![Preview](https://raw.githubusercontent.com/EnderFox40/Discord-addons/main/Themes/Nicedark/preview.png)
+![Preview](preview.png)
 ## INSTALLATION
 
 #### Better Discord

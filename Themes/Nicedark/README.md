@@ -1,7 +1,7 @@
 # Nicedark - Make the Dark mode Better!
 
 ![Preview](https://raw.githubusercontent.com/EnderFox40/Discord-addons/main/Themes/Nicedark/preview.png)
-## Installation
+## INSTALLATION
 
 #### Better Discord
 Download coming soon.
@@ -10,7 +10,7 @@ Download coming soon.
 ```bash
 https://raw.githubusercontent.com/EnderFox40/Discord-addons/main/Themes/Nicedark/nicedark.theme.css
 ```
-## Credits
+## CREDITS
 
 [Old Icons](https://davart154.github.io/Themes/Icon%20Revert%202023/2023%20Icon%20Revert.css) By Davart154.
 

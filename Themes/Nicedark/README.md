@@ -21,3 +21,5 @@ https://raw.githubusercontent.com/enderfoxbg/Discord-Themes/main/Themes/Nicedark
 Improved members list By Riddim-GLiTCH.
 
 [Account Details Grid](https://dablulite.github.io/css-snippets/BetterModals/import.css) By dablulite.
+
+<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>

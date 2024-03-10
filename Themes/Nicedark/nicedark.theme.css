@@ -86,3 +86,20 @@ html {
 [class^=message_] [class^=contents_] [class^=anchor_]:hover, [class^=message_] [class^=repliedMessage_] [class^=anchor_]:hover, [class^=message_] [class^=modal] [class^=anchor_]:hover, [class^=message_] [class^=topic_] [class^=anchor_]:hover, [class^=focusLock] [class^=contents_] [class^=anchor_]:hover, [class^=focusLock] [class^=repliedMessage_] [class^=anchor_]:hover, [class^=focusLock] [class^=modal] [class^=anchor_]:hover, [class^=focusLock] [class^=topic_] [class^=anchor_]:hover, [class^=title] [class^=contents_] [class^=anchor_]:hover, [class^=title] [class^=repliedMessage_] [class^=anchor_]:hover, [class^=title] [class^=modal] [class^=anchor_]:hover, [class^=title] [class^=topic_] [class^=anchor_]:hover {
   background-color: var(--brand-experiment);
 }
+
+.container_b2ce9c {
+  transition: 0.3s ease-in-out;
+  margin-right: -180px;
+}
+.container_b2ce9c .membersGroup__85843 {
+  transition: 0.3s ease-in-out;
+  height: 0px!important;
+  margin-top: -25px;
+}
+.container_b2ce9c:hover .membersGroup__85843 {
+  height: unset!important;
+  margin-top: unset!important;
+}
+.container_b2ce9c:hover{
+  margin-right: unset!important;
+}

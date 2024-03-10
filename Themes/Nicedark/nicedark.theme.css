@@ -134,3 +134,7 @@ html {
   background: var(--background-tertiary);
   border: 1px solid var(--button-outline-primary-border-hover);
 }
+
+.userPopoutOverlayBackground-3A0Pcz {
+  max-height: 60vh;
+}

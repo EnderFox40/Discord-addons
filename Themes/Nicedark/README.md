@@ -7,5 +7,5 @@ Download coming soon.
 
 #### Vencord
 ```bash
-https://raw.githubusercontent.com/EnderFox40/Discord-addons/main/Themes/Nicecord/nicedark.theme.css
+https://raw.githubusercontent.com/EnderFox40/Discord-addons/main/Themes/Nicedark/nicedark.theme.css
 ```

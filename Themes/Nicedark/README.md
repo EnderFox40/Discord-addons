@@ -12,5 +12,6 @@ https://raw.githubusercontent.com/EnderFox40/Discord-addons/main/Themes/Nicedark
 ```
 ## Credits
 
-[Old Icons](https://davart154.github.io/Themes/Icon%20Revert%202023/2023%20Icon%20Revert.css)By Davart154.
-[Settings Icons](https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css)By mwittrien.
+[Old Icons](https://davart154.github.io/Themes/Icon%20Revert%202023/2023%20Icon%20Revert.css) By Davart154.
+
+[Settings Icons](https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css) By mwittrien.

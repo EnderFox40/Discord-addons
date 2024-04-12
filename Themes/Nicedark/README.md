@@ -18,6 +18,6 @@ https://raw.githubusercontent.com/enderfoxbg/Discord-Themes/main/Themes/Nicedark
 
 [Improved Links](https://github.com/Riddim-GLiTCH/Discord-CSS-Snippets/blob/main/snippets/Improved%20Links.md) By Riddim-GLiTCH.
 
-Improved members list By Riddim-GLiTCH.
+[Improved members list](https://github.com/Riddim-GLiTCH/Discord-CSS-Snippets/blob/main/snippets/Improved%20Members%20List.md) By Riddim-GLiTCH.
 
 [Account Details Grid](https://dablulite.github.io/css-snippets/BetterModals/import.css) By dablulite.
